@@ -1,0 +1,51 @@
+#header{
+  text-align: center;
+}
+head{
+  display: block;
+  margin: 100px;
+}
+body{
+  margin: auto;
+  width: 1000px;
+  height: 700px;
+}
+#menu{
+  position: relative;
+  margin: auto;
+  height: 416px;
+  width: 576px;
+}
+#attribute{
+  position: absolute;
+  display: block;
+  width: 160px;
+  height: 416px;
+  background: url(../images/M.png);
+}
+#attribute ul{
+  margin-left: 15px;
+  width: 60px;
+  padding: 0;
+  display: inline-block;
+  font-family: "Microsoft YaHei";
+  font-size: 13px;
+}
+#map_level_1{
+  position: absolute;
+  /*消除div元素之间间距*/
+  font-size: 0;
+  -webkit-text-size-adjust:none;
+  /*消除div元素之间间距*/
+  left: 160px;
+  display: block;
+  width: 416px;
+  height: 416px;
+}
+#map_level_2{
+  position: absolute;
+  left: 160px;
+  display: block;
+  width: 416px;
+  height: 416px;
+}

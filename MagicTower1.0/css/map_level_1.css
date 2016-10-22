@@ -1,0 +1,13 @@
+.road{
+  width: 32px;
+  height: 32px;
+  display: inline-block;
+  background: url(../images/Road.png);
+  background-position:0px 0px;
+}
+.wall{
+  width: 32px;
+  height: 32px;
+  display: inline-block;
+  background: url(../images/Brick.png);
+}

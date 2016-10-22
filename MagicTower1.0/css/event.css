@@ -1,0 +1,255 @@
+.hero_1{
+  width:32px;
+  height:32px;
+  display: inline-block;
+  background: url(../images/Hero.png);
+}
+/*楼梯-上*/
+.S_1{
+  width: 32px;
+  height: 32px;
+  display: inline-block;
+  background: url(../images/0.png);
+  background-position:-32px -992px;
+}
+/*楼梯-下*/
+.S_2{
+  width: 32px;
+  height: 32px;
+  display: inline-block;
+  background: url(../images/0.png);
+  background-position:-0px -992px;
+}
+/*门*/
+.D_1{
+  width: 32px;
+  height: 32px;
+  display: inline-block;
+  background: url(../images/Door.png);
+  background-position:0px 0px;
+}
+.D_2{
+  width: 32px;
+  height: 32px;
+  display: inline-block;
+  background: url(../images/Door.png);
+  background-position:-32px 0px;
+}
+.D_3{
+  width: 32px;
+  height: 32px;
+  display: inline-block;
+  background: url(../images/Door.png);
+  background-position:-64px 0px;
+}
+.D_4{
+  width: 32px;
+  height: 32px;
+  display: inline-block;
+  background: url(../images/Door.png);
+  background-position: -96px 0px;
+}
+.D_5{
+  width: 32px;
+  height: 32px;
+  display: inline-block;
+  background: url(../images/Wall.png);
+  background-position: -96px 0px;
+}
+/*钥匙*/
+.T_5_1{
+  width: 32px;
+  height: 32px;
+  display: inline-block;
+  background: url(../images/Key.png);
+  background-position: 0px 0px;
+}
+.T_5_2{
+  width: 32px;
+  height: 32px;
+  display: inline-block;
+  background: url(../images/Key.png);
+  background-position: -32px 0px;
+}
+.T_5_3{
+  width: 32px;
+  height: 32px;
+  display: inline-block;
+  background: url(../images/Key.png);
+  background-position: -64px 0px;
+}
+.T_5_4{
+  width: 32px;
+  height: 32px;
+  display: inline-block;
+  background: url(../images/Key.png);
+  background-position: 0px -32px;
+}
+/*饮料*/
+.T_22_1{
+  width: 32px;
+  height: 32px;
+  display: inline-block;
+  background: url(../images/Juice.png);
+  background-position: 0px 0px;
+}
+.T_22_2{
+  width: 32px;
+  height: 32px;
+  display: inline-block;
+  background: url(../images/Juice.png);
+  background-position: -32px 0px;
+}
+/*装备*/
+.T_23_1{
+  width: 32px;
+  height: 32px;
+  display: inline-block;
+  background: url(../images/23.png);
+  background-position: 0px 0px;
+}
+.T_23_2{
+  width: 32px;
+  height: 32px;
+  display: inline-block;
+  background: url(../images/23.png);
+  background-position: -32px 0px;
+}
+.T_23_3{
+  width: 32px;
+  height: 32px;
+  display: inline-block;
+  background: url(../images/23.png);
+  background-position: 0px -64px;
+}
+/*宝石*/
+.T_24_1{
+  width: 32px;
+  height: 32px;
+  display: inline-block;
+  background: url(../images/24.png);
+  background-position: 0px 0px;
+}
+.T_24_2{
+  width: 32px;
+  height: 32px;
+  display: inline-block;
+  background: url(../images/24.png);
+  background-position: -32px 0px;
+}
+/*史莱姆*/
+.M_6_1{
+  width: 32px;
+  height: 32px;
+  display: inline-block;
+  background: url(../images/Slime.png);
+  background-position: 0px 0px;
+}
+.M_6_2{
+  width: 32px;
+  height: 32px;
+  display: inline-block;
+  background: url(../images/Slime.png);
+  background-position: 0px -32px;
+}
+.M_6_3{
+  width: 32px;
+  height: 32px;
+  display: inline-block;
+  background: url(../images/Slime.png);
+  background-position: 0px -64px;
+}
+/*骷髅*/
+.M_7_1{
+  width: 32px;
+  height: 32px;
+  display: inline-block;
+  background: url(../images/skeleton.png);
+  background-position: 0px 0px;
+}
+.M_7_2{
+  width: 32px;
+  height: 32px;
+  display: inline-block;
+  background: url(../images/skeleton.png);
+  background-position: 0px -32px;
+}
+/*魔法师*/
+.M_8_1{
+  width: 32px;
+  height: 32px;
+  display: inline-block;
+  background: url(../images/magician.png);
+}
+/*蝙蝠*/
+.M_9_1{
+  width: 32px;
+  height: 32px;
+  display: inline-block;
+  background: url(../images/9.png);
+}
+.M_9_2{
+  width: 32px;
+  height: 32px;
+  display: inline-block;
+  background: url(../images/9.png);
+  background-position: 0px -32px;
+}
+.M_9_3{
+  width: 32px;
+  height: 32px;
+  display: inline-block;
+  background: url(../images/9.png);
+  background-position: 0px -64px;
+}
+/*兽人*/
+.M_10_1{
+  width: 32px;
+  height: 32px;
+  display: inline-block;
+  background: url(../images/10.png);
+}
+.M_10_2{
+  width: 32px;
+  height: 32px;
+  display: inline-block;
+  background: url(../images/10.png);
+  background-position: 0px -32px;
+}
+/*卫兵*/
+.M_11_1{
+  width: 32px;
+  height: 32px;
+  display: inline-block;
+  background: url(../images/11.png);
+  background-position: 0px 0px;
+}
+.M_11_2{
+  width: 32px;
+  height: 32px;
+  display: inline-block;
+  background: url(../images/11.png);
+  background-position: 0px -32px;
+}
+.M_11_3{
+  width: 32px;
+  height: 32px;
+  display: inline-block;
+  background: url(../images/11.png);
+  background-position: 0px -64px;
+}
+/*骑士*/
+.M_12_1{
+  width: 32px;
+  height: 32px;
+  display: inline-block;
+  background: url(../images/12.png);
+  background-position: 0px 0px;
+}
+.M_12_2{
+  width: 32px;
+  height: 32px;
+  display: inline-block;
+  background: url(../images/12.png);
+  background-position: 0px -32px;
+}
