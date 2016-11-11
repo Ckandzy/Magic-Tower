@@ -1,0 +1,83 @@
+#header{
+  text-align: center;
+}
+head{
+  display: block;
+  margin: 100px;
+}
+body{
+  margin: auto;
+  width: 1000px;
+  height: 700px;
+}
+#menu{
+  position: relative;
+  margin: auto;
+  height: 416px;
+  width: 576px;
+}
+#attribute{
+  border-style: solid none solid solid;
+  position: absolute;
+  display: block;
+  width: 160px;
+  height: 416px;
+  background: url(../images/M.png);
+}
+#attribute ul{
+  width: 50px;
+  padding: 0;
+  display: inline-block;
+  font-family: "Arial";
+  font-size: 15px;
+  text-align: center;
+  vertical-align:middle;
+}
+.attribute_1{
+  margin-top:12px;
+  margin-left: 15px;
+  width: 50px;
+  padding: 0;
+}
+.attribute_2{
+  margin-top:0px;
+  margin-bottom: 8px;
+  margin-left: 15px;
+  width: 50px;
+  padding: 0;
+}
+.attribute_3{
+  margin-top:0px;
+  margin-bottom: 8px;
+  margin-left: 15px;
+  width: 50px;
+  padding: 0;
+}
+#map_level_1{
+  border-style: solid solid solid none;
+  position: absolute;
+  /*消除div元素之间间距*/
+  font-size: 0;
+  -webkit-text-size-adjust:none;
+  /*消除div元素之间间距*/
+  left: 160px;
+  display: block;
+  width: 416px;
+  height: 416px;
+}
+#map_level_2{
+  border-style: solid solid solid none;
+  position: absolute;
+  left: 160px;
+  display: block;
+  width: 416px;
+  height: 416px;
+}
+#map_level_3{
+  border-style: solid solid solid none;
+  position: absolute;
+  left: 160px;
+  display: block;
+  width: 416px;
+  height: 416px;
+}
